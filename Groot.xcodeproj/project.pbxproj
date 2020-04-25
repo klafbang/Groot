@@ -117,6 +117,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4C7BF67A2454D0A900EEF93E /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		82BCF4DC1D9123BF00BC4E0F /* Data+Resource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Data+Resource.swift"; sourceTree = "<group>"; };
 		82BCF4DE1D913EF700BC4E0F /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		82BCF4E61D9145DE00BC4E0F /* SerializationTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SerializationTests.swift; sourceTree = "<group>"; };
@@ -237,6 +238,7 @@
 		B4DC1AE21AA9CA5E00F67403 = {
 			isa = PBXGroup;
 			children = (
+				4C7BF67A2454D0A900EEF93E /* Package.swift */,
 				B4DC1AEE1AA9CA5E00F67403 /* Groot */,
 				B4DC1AFB1AA9CA5E00F67403 /* GrootTests */,
 				B4DC1AED1AA9CA5E00F67403 /* Products */,
@@ -489,6 +491,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = B4DC1AE21AA9CA5E00F67403;
